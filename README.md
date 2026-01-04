@@ -64,7 +64,7 @@ address,id,__typename,email,telegramUserID,winner
 
 #### If your token uses the same address for multiple chains uncomment that 
 
-![alt text](image-6.png)
+![alt text](image-5.png)
 
 ---
 
